@@ -35,7 +35,7 @@ I'm a junior Software Engineer with a Passion for Tech. want to know more about 
 <div>
 <img src="https://komarev.com/ghpvc/?username=niettedoen&label=Profile%20views&color=2617FE&style=flat-square" alt="view profile"/>
 <img src="https://img.shields.io/github/followers/niettedoen?style=social" alt="GitHub followers"/>
-<img src="https://img.shields.io/github/stars/bagussatoto?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="GitHub User's stars"/>
+<img src="https://img.shields.io/github/stars/niettedoen?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="GitHub User's stars"/>
 </div>
 <br/>
 <a href="https://github.com/anuraghazra/github-readme-stats">
