@@ -21,4 +21,4 @@
 <br/>
 
 ## My Stats
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=NietTeDoen&show_icons=true&theme=radical" alt="My github stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=NietTeDoen&show_icons=true&theme=tokyonight" alt="My github stats" />
