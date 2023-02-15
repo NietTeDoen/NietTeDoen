@@ -1,4 +1,5 @@
 ### Hi there,
+
 My Name is Harm, or you can call me NietTeDoen(Neat-Te-Doon) but you can shorten it to neat because that is what i am.<br/>
 I'm a junior Software Engineer with a Passion for Tech. want to know more about me. read below
 
@@ -15,6 +16,7 @@ I'm a junior Software Engineer with a Passion for Tech. want to know more about 
 <img align="left" alt="Windows" width="26px" src="https://raw.githubusercontent.com/github/explore/379d49236d826364be968345e0a085d044108cff/topics/windows/windows.png" />
 <img align="left" alt="Raspberry Pi" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img src="https://worldvectorlogo.com/logos/photoshop-cc-4.svg" alt="photoshop" width="26px" height="26"/> 
 
 <br/>
 
@@ -29,6 +31,12 @@ I'm a junior Software Engineer with a Passion for Tech. want to know more about 
 <br/>
 
 ## My Stats
+<div>
+<img src="https://komarev.com/ghpvc/?username=niettedoen&label=Profile%20views&color=2617FE&style=flat-square" alt="view profile"/>
+<img src="https://img.shields.io/github/followers/niettedoen?style=social" alt="GitHub followers"/>
+<img src="https://img.shields.io/github/stars/bagussatoto?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="GitHub User's stars"/>
+</div>
+<br/>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api?username=NietTeDoen&show_icons=true&theme=tokyonight" alt="My github stats" />
   <img align="center" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niettedoen&hide=aidl&hide_border=true&layout=compact&bg_color=111111&text_color=c0c0c0" />
