@@ -1,6 +1,6 @@
 ### Hi there,
-My Name is Harm, or you can call me NietTeDoen(Neat-Te-Doon) but you can shorten it to neat because that is what i am.
-I'm a junior Software Engineer with a Passion for Tech. want to know more about me. read below \/
+My Name is Harm, or you can call me NietTeDoen(Neat-Te-Doon) but you can shorten it to neat because that is what i am.<br/>
+I'm a junior Software Engineer with a Passion for Tech. want to know more about me. read below
 
 ## I'm a Software Engineer, Digital artist and Tech Nerd
 
