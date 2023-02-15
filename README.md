@@ -11,14 +11,14 @@ I'm a junior Software Engineer with a Passion for Tech. want to know more about 
 - ⚡ Fun fact: I have a lot of experience with Human Anatomy
 
 ## My Tools
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="NPM" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" />
-<img align="left" alt="Windows" width="26px" src="https://raw.githubusercontent.com/github/explore/379d49236d826364be968345e0a085d044108cff/topics/windows/windows.png" />
-<img align="left" alt="Raspberry Pi" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img src="https://worldvectorlogo.com/logos/photoshop-cc-4.svg" alt="photoshop" width="26px" height="26"/> 
-<img src="https://image.winudf.com/v2/image1/anAuY28uY2Vsc3lzLmNsaXBzdHVkaW9wYWludC5nb29nbGVwbGF5X2ljb25fMTY3MDI5MDExMl8wNDQ/icon.png?fakeurl=1&h=240&type=webp" alt="ClipStudioPaint" width="26px" height="26"/> 
-
+<div>
+<img align="left" alt="Visual Studio Code" width="40px" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="NPM" width="40px" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" />
+<img align="left" alt="Windows" width="40px" height="40" src="https://raw.githubusercontent.com/github/explore/379d49236d826364be968345e0a085d044108cff/topics/windows/windows.png" />
+<img align="left" alt="Raspberry Pi" width="40px" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png" />
+<img align="left" alt="Git" width="40px" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img alt="ClipStudioPaint" width="40px" height="40" src="https://image.winudf.com/v2/image1/anAuY28uY2Vsc3lzLmNsaXBzdHVkaW9wYWludC5nb29nbGVwbGF5X2ljb25fMTY3MDI5MDExMl8wNDQ/icon.png?fakeurl=1&h=240&type=webp"/> 
+</div>
 <br/>
 
 ## My Languages
