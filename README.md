@@ -17,6 +17,7 @@ I'm a junior Software Engineer with a Passion for Tech. want to know more about 
 <img align="left" alt="Raspberry Pi" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img src="https://worldvectorlogo.com/logos/photoshop-cc-4.svg" alt="photoshop" width="26px" height="26"/> 
+<img src="https://image.winudf.com/v2/image1/anAuY28uY2Vsc3lzLmNsaXBzdHVkaW9wYWludC5nb29nbGVwbGF5X2ljb25fMTY3MDI5MDExMl8wNDQ/icon.png?fakeurl=1&h=240&type=webp" alt="ClipStudioPaint" width="26px" height="26"/> 
 
 <br/>
 
