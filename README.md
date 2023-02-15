@@ -31,8 +31,8 @@ I'm a junior Software Engineer with a Passion for Tech. want to know more about 
 
 ## My Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NietTeDoen&show_icons=true&theme=tokyonight" alt="My github stats" />
-  <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niettedoen&hide=aidl&hide_border=true&layout=compact&bg_color=111111&text_color=c0c0c0" />
+  <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api?username=NietTeDoen&show_icons=true&theme=tokyonight" alt="My github stats" />
+  <img align="center" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niettedoen&hide=aidl&hide_border=true&layout=compact&bg_color=111111&text_color=c0c0c0" />
   <br>
   <br>
 </a>
