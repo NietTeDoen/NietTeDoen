@@ -1,4 +1,4 @@
-### Hi there, I'm Harm
+### Hi there, I'm Harm (Neat-Te-Doon) or just Neat for short
 
 ## I'm a Software Engineer, Digital artist and Tech Nerd
 
