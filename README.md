@@ -18,7 +18,7 @@ I'm a junior Software Engineer with a Passion for Tech. want to know more about 
 <img align="left" alt="Windows" width="40px" height="40" src="https://raw.githubusercontent.com/github/explore/379d49236d826364be968345e0a085d044108cff/topics/windows/windows.png" />
 <img align="left" alt="Raspberry Pi" width="40px" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png" />
 <img align="left" alt="Git" width="40px" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img alt="ClipStudioPaint" width="40px" height="40" src="https://image.winudf.com/v2/image1/anAuY28uY2Vsc3lzLmNsaXBzdHVkaW9wYWludC5nb29nbGVwbGF5X2ljb25fMTY3MDI5MDExMl8wNDQ/icon.png?fakeurl=1&h=240&type=webp"/> 
+<img alt="Xamarin" width="40px" height="40" src="https://cdn.freebiesupply.com/logos/large/2x/xamarin-logo-png-transparent.png"/>
 </div>
 <br/>
 
