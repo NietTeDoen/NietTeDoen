@@ -29,6 +29,7 @@ I'm a junior Software Engineer with a Passion for Tech. want to know more about 
 <img align="left" alt="c#" width="40px" src="https://seeklogo.com/images/C/c-logo-A44DB3D53C-seeklogo.com.png" />
 <img align="left" alt="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" />
 <img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Python" width="40px" src="https://pluspng.com/img-png/python-logo-png-open-2000.png" />
 <br/>
 <br/>
 <br/>
