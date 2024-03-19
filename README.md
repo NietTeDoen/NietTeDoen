@@ -48,3 +48,8 @@ I'm a junior Software Engineer with a Passion for Tech. want to know more about 
   <br>
   <br>
 </a>
+
+### contact me
+<a href="https://discordapp.com/users/720274440386117673/">
+  <img src="https://discord.c99.nl/widget/theme-4/720274440386117673.png" />
+</a>
