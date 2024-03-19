@@ -30,6 +30,7 @@ I'm a junior Software Engineer with a Passion for Tech. want to know more about 
 <img align="left" alt="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" />
 <img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png?size=48" />
+<img align="left" alt="DiscordJS" width="40px" src="https://jasonhaxstuff.gallerycdn.vsassets.io/extensions/jasonhaxstuff/discord-js-tools/0.0.3/1530824658924/Microsoft.VisualStudio.Services.Icons.Default" />
 <br/>
 <br/>
 <br/>
