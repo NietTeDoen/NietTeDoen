@@ -7,8 +7,7 @@ I'm a junior Software Engineer with a Passion for Tech. want to know more about 
 
 - 🔭 I’m currently working on my internship at Jazeker B.V.
 - 🌱 I’m currently learning Rust
-- 💬 Ask me about C#, Unity
-- ⚡ Fun fact: I have a lot of experience with Human Anatomy
+- 💬 I have a lot of experience with JS so feel free to ask anything 
 - 🌳 Want more Knowledge? look no further but the <a href="https://rift-shallot-e1c.notion.site/Tree-of-knowledge-19842faf25eb4afd814fa01cb6859151">Tree of Knowledge</a>
 
 ## My Tools
