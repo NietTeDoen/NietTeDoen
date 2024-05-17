@@ -53,5 +53,5 @@ I'm a junior Software Engineer with a Passion for Tech. want to know more about 
 <a href="https://discordapp.com/users/720274440386117673/">
   <img src="https://discord.c99.nl/widget/theme-4/720274440386117673.png" />
 </a>
-<img src="https://count.getloli.com/get/@:NietTeDoen?theme=rule34">
+<img src="https://count.getloli.com/get/@:NietTeDoen?theme=rule34" alt="some loli counter">
 </div>
