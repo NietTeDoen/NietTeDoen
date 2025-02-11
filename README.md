@@ -18,18 +18,20 @@ I'm a junior Software Engineer with a Passion for Tech. want to know more about 
 <img align="left" alt="Raspberry Pi" width="40px" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png" />
 <img align="left" alt="Git" width="40px" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img alt="Xamarin" width="40px" height="40" src="https://cdn.freebiesupply.com/logos/large/2x/xamarin-logo-png-transparent.png"/>
+<img alt="Arduino" width="40px" height="40" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Felkine.altervista.org%2Farduino%2Farduino-logo-.png&f=1&nofb=1&ipt=7ea05c9c5e7c275df29b35a45b404082ad5fb84ef8a96be8265ee018d64a306e&ipo=images"/>
 </div>
 <br/>
 
 ## My Languages
 <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="c#" width="40px" src="https://seeklogo.com/images/C/c-logo-A44DB3D53C-seeklogo.com.png" />
+<img align="left" alt="JavaScript" width="40px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.vecteezy.com%2Fsystem%2Fresources%2Fpreviews%2F027%2F127%2F463%2Foriginal%2Fjavascript-logo-javascript-icon-transparent-free-png.png" />
+<img align="left" alt="c#" width="40px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fassets-global.website-files.com%2F6047a9e35e5dc54ac86ddd90%2F63065002cd563e1cd1cead28_eaadfe64-p-500.png" />
 <img align="left" alt="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" />
 <img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png?size=48" />
 <img align="left" alt="DiscordJS" width="40px" src="https://jasonhaxstuff.gallerycdn.vsassets.io/extensions/jasonhaxstuff/discord-js-tools/0.0.3/1530824658924/Microsoft.VisualStudio.Services.Icons.Default" />
+<img align="left" alt="Gedot" width="40px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic-00.iconduck.com%2Fassets.00%2Fgodot-icon-1024x945-2mo07ow3.png" />
 <br/>
 <br/>
 <br/>
