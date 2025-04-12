@@ -8,6 +8,7 @@
     <li><b>Stats.fm:</b> https://stats.fm/niettedoen0817</li>
     <li><b>Job:</b> Studentaanhuis</li>
     <br>
+    <br>
   </div>
   <h1 align="center"> 📚 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📚 </h1>
   <div>
@@ -36,6 +37,7 @@
       </a>
       <br>
       <br>
+    <br>
       <br>
     </p>
   </div>
